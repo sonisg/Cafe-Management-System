@@ -1,2 +1,2 @@
 # Cafe-Management-System
-Project using angular, spring boot and mysql
+Project using Angular, Spring Boot and MySql
